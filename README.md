@@ -19,3 +19,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Demo 
+
+Here you can see the application running on my local machine as simple Demo of how it looks like.
+
+
+![shopping-cart-demo](https://github.com/user-attachments/assets/8cf40e9e-9ed8-497d-adb2-776b822a72c8)
+
