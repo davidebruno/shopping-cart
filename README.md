@@ -1,9 +1,9 @@
-# Sample Shopping Cart Demo
+## Sample Shopping Cart Demo
 
 The application displays a list of Items that the user can add to the cart, after the selection you can click on the cart to review what added and decide to add or reduce the quantity of each item. As final step the user can place the order.
 This project shows an example of how to use the latest feature of Angular Signals and Standalone Components to implement the Shopping Cart.
 
-# Prerequisites
+## Prerequisites
 
     - Node.js version 23.11.00
     - npm version 10.9.2
